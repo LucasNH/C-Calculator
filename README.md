@@ -20,7 +20,7 @@ cd c-calculator
 cc calculator.c -o c-calculator
 ```
 ### Step 3
-Run c-calculator
+Run c-calculator:
 ```
 ./c-calculator
 ```
