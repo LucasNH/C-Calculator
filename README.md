@@ -17,7 +17,7 @@ git clone https://github.com/LucasNH/c-calculator.git
 Compile the source file:
 ```
 cd c-calculator
-cc calculator.c -o c-calculator
+cc c-calculator.c -o c-calculator
 ```
 ### Step 3
 Run c-calculator:
